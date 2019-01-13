@@ -8,4 +8,4 @@ We solve this problem by traversing the graph, and then automating play.
 The program accepts four words representing the four rows of the grid. The program then plays the game.
 
 Note:
-The C++ code currently outputs possible words, while the Python code actually plays the words.
+The C++ code currently outputs possible words, while the Python code finds words AND plays the words.
